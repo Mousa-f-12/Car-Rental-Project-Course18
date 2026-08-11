@@ -1,5 +1,3 @@
 <Solution>
-  <Project Path="../BusinessLayer/BusinessLayer.csproj" Id="c899cd43-2a8a-4522-83ed-8a5084323a85" />
-  <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="e36948ea-f95c-4b77-922b-20354515329d" />
   <Project Path="Car-Rental-Project.csproj" Id="399e1313-2ac4-438a-be04-9d61c0750990" />
 </Solution>
