@@ -25,6 +25,7 @@ namespace Car_Rental_Project
         {
             _availableCarsTable = clsCar.GetAllAvailableCars();
             _availableCarsView = _availableCarsTable.DefaultView;
+            Console.WriteLine("Hello");
         }
 
         private void _LoadData()
